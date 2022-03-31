@@ -10,7 +10,7 @@
     <packaging>war</packaging>
     <properties>
         <!-- 所有jar包 版本属性 开始-->
-        <spring.version>4.3.4.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <!--    注意 小哈电脑上的mysql是8.0.11，咱们默认用的是5.1.30，如果连接不上数据库自行更改-->
         <mysql.version>5.1.30</mysql.version>
         <!--    注意-->
